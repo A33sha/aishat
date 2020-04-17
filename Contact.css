@@ -16,7 +16,7 @@ font-family: 'Courgette', cursive;
 text-align: center;
 font-size: 4.5rem;
 font-weight: bold;
-margin: 20px 10px; to
+margin: 20px 10px;
 	}
 	img{
 		width: 350px;
@@ -49,7 +49,7 @@ margin: 20px 10px; to
 	}
 	i{
 		font-size: 90px;
-		margin: 15px auto;
+		margin: auto;
 }
 #bio{
 	font-size: 30px;
